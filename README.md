@@ -66,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Loki](https://grafana.com/oss/loki/) – Logging system for cloud-native infrastructure.
 - [Fluent Bit](https://fluentbit.io/) – Lightweight log processor and forwarder.
 - [Kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) – Exposes Kubernetes objects as Prometheus metrics.
+- [KubeStellar Console](https://console.kubestellar.io) – Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, AI-guided operations, and 20+ CNCF integrations. CNCF Sandbox project.
 
 ## Security
 
