@@ -58,6 +58,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Operator SDK](https://sdk.operatorframework.io/) – Build Kubernetes Operators using Go, Helm, or Ansible.
 - [Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator) – Manages Prometheus monitoring in Kubernetes.
 - [Elastic Operator](https://github.com/elastic/cloud-on-k8s) – Run Elastic Stack on Kubernetes.
+- [Attune](https://github.com/attune-io/attune) – Kubernetes operator for safe, in-place pod resource right-sizing using Prometheus metrics.
 
 ## Monitoring & Logging
 
