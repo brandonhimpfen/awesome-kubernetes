@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [k9s](https://k9scli.io/) – Terminal UI for managing Kubernetes clusters.
 - [Lens](https://k8slens.dev/) – The Kubernetes IDE for monitoring and management.
 - [Skaffold](https://skaffold.dev/) – Workflow tool for continuous development on Kubernetes.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 - [kubectx/kubens](https://github.com/ahmetb/kubectx) – Switch contexts and namespaces easily.
 
 ## Operators
