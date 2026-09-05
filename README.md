@@ -1,4 +1,4 @@
-# Awesome Kubernetes [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Kubernetes [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1012651521.svg)](https://doi.org/10.5281/zenodo.19680483)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -126,9 +126,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)** – Tools and resources for DevOps practices.
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous integration tools.
-- **[Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops)** – Machine learning operations tools and platforms.
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)** – Tools and resources for DevOps practices.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Continuous integration tools.
+- **[Awesome MLOps](https://github.com/brandonhimpfen/awesome-mlops)** – Machine learning operations tools and platforms.
   
 ## Contribute
 
